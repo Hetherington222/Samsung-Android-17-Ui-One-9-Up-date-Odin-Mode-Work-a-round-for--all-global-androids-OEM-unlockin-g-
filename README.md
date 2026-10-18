@@ -1,0 +1,2 @@
+# Samsung-Android-17-Ui-One-9-Up-date-Odin-Mode-Work-a-round-for--all-global-androids-OEM-unlockin-g-
+HelloI have developed, or am on the cusp of developing, a patch to trigger the server-side settings with no data wipe for all international/global devices... Can anyone repackage genuine samsung firmware into a ROM for an emulator? Galaxy S24 Ultra (SM-S928B). Build Number: S928BXXU3AXH7, Android version: U (Android 14)?????????? PLEASE 
